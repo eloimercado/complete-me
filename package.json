@@ -1,9 +1,9 @@
 {
-  "name": "TDD",
+  "name": "@eloi-mercado/complete-me",
   "version": "1.0.0",
-  "description": "",
   "main": "index.js",
   "directories": {
+    "lib": "lib",
     "test": "tests"
   },
   "scripts": {
@@ -23,5 +23,15 @@
     "eslint": "^4.9.0",
     "mocha": "^3.5.3",
     "webpack": "^3.3.0"
-  }
+  },
+  "dependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/eloimercado/complete-me.git"
+  },
+  "bugs": {
+    "url": "https://github.com/eloimercado/complete-me/issues"
+  },
+  "homepage": "https://github.com/eloimercado/complete-me#readme",
+  "description": ""
 }
